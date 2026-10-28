@@ -2,7 +2,7 @@
 
 Projeto de dados ponta a ponta sobre uma carteira bancária real, construído enquanto aprendo a trilha de **Ciência de Dados** — do dado bruto ao insight de negócio, e do insight ao modelo preditivo, do jeito que se faz de verdade no mercado.
 
-> 👀 **Não é da área técnica ou só quer ver funcionando rápido?** Abra [`para-recrutadores/demo.html`](para-recrutadores/demo.html) — uma página única que abre em qualquer navegador, sem instalar nada, com os KPIs, os gráficos e um simulador de risco interativo.
+> 👀 **Não é da área técnica ou só quer ver funcionando rápido?** Abra [https://devjhown.github.io/beaumont-bank-observatorio-negocio/para-recrutadores/demo.html) — uma página única que abre em qualquer navegador, sem instalar nada, com os KPIs, os gráficos e um simulador de risco interativo.
 
 ## 🎯 Problema de negócio
 
